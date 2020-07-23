@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb+srv://dbUserDeva:dbUserPassword@cluster0.sfj1v.azure.mongodb.net/userDB?retryWrites=true&w=majority",
+    "secret": "secretPassword"
+}
